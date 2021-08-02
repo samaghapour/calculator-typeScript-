@@ -1,2 +1,2 @@
 # calculator
-simple calculator with js (ES6 classes) 
+simple calculator with typeScript 
